@@ -21,14 +21,6 @@ header{
 	width: 150px;
 	margin-right: 10px;
 }
-  
-section.aside{
-	background-color: white;
-	width:225px; 
-	float: left;
-	padding: 10px;
-	
-}
 
 section.right{
     padding: 10px;
@@ -36,28 +28,11 @@ section.right{
     padding-right: 160px;
 }
 
-aside{
-	background-color: rgb(184, 184, 184);
-	width:200px; 
-	padding: 10px;
-	padding-bottom: 100px;
-}
-
-aside a{
-	color: black;
-	font-size: 23px;
-	text-decoration: none;
-}
-
-aside a:hover{
-	color:white
-}
-
 section.contenido{
     float: left;
     background-color: rgb(255, 255, 255);
     padding: 10px;
-    padding-left: 30px;
+    padding-left: 300px;
     width: 1200px;
     height: 600px;
 }
